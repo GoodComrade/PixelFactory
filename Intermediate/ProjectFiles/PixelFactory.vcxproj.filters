@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\PixelFactory.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{461EAE5C-F403-42DE-AF1D-A1AAFE7B0894}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\PixelFactory.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\PixelFactoryEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{A133441D-CEBF-4B02-801D-068D3C24D7BC}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\PixelFactory">
+			<UniqueIdentifier>{8BDABAB9-5CF5-4084-A9E5-BDF6662FC635}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\PixelFactory\PixelFactory.Build.cs">
+			<Filter>Source\PixelFactory</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\PixelFactory\PixelFactory.cpp">
+			<Filter>Source\PixelFactory</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\PixelFactory\PixelFactory.h">
+			<Filter>Source\PixelFactory</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\PixelFactory\PixelFactoryCharacter.cpp">
+			<Filter>Source\PixelFactory</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\PixelFactory\PixelFactoryCharacter.h">
+			<Filter>Source\PixelFactory</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\PixelFactory\PixelFactoryGameMode.cpp">
+			<Filter>Source\PixelFactory</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\PixelFactory\PixelFactoryGameMode.h">
+			<Filter>Source\PixelFactory</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\PixelFactory\PixelFactoryHUD.cpp">
+			<Filter>Source\PixelFactory</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\PixelFactory\PixelFactoryHUD.h">
+			<Filter>Source\PixelFactory</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\PixelFactory\PixelFactoryProjectile.cpp">
+			<Filter>Source\PixelFactory</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\PixelFactory\PixelFactoryProjectile.h">
+			<Filter>Source\PixelFactory</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\PixelFactory\SimplexNoiseLibrary.cpp">
+			<Filter>Source\PixelFactory</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\PixelFactory\SimplexNoiseLibrary.h">
+			<Filter>Source\PixelFactory</Filter>
+		</ClInclude >
+		<Filter Include="Source\PixelFactory\Private">
+			<UniqueIdentifier>{F6ADCD5A-677B-4E7D-8329-6837C0FDAA4B}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\PixelFactory\Private\VoxelActor.cpp">
+			<Filter>Source\PixelFactory\Private</Filter>
+		</ClCompile >
+		<Filter Include="Source\PixelFactory\Public">
+			<UniqueIdentifier>{A73210D3-A741-46D5-9379-5089A66D6862}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Source\PixelFactory\Public\VoxelActor.h">
+			<Filter>Source\PixelFactory\Public</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

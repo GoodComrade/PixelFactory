@@ -1,0 +1,3 @@
+C:\UE_Projects\PixelFactory\Source\PixelFactory\PixelFactory.Build.cs
+C:\UE_Projects\PixelFactory\Source\PixelFactory.Target.cs
+C:\UE_Projects\PixelFactory\Source\PixelFactoryEditor.Target.cs
